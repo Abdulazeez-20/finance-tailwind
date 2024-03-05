@@ -16,7 +16,7 @@ const Hero = () => {
                         loop
                     ></ReactTyped>
                 </div>
-                <p className='mt-2 text-xl text-gray-600 md:text-2xl md:mt-4'>The new gate that will open your vision to a new banking system</p>
+                <p className='px-1 mt-2 text-xl text-gray-600 md:text-2xl md:mt-4'>The gate that will open your vision to a new banking system</p>
                 <button type='button' className='bg-green-400 md:w-[200px] w-[150px] py-3 mt-4 rounded-xl text-xl text-black font-bold'>Join Us</button>
             </div>
         </div>
